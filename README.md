@@ -7,7 +7,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20;Junior%20Penetration%20Tester&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Back%20End%20Developer;Junior%20Penetration%20Tester&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</a>
 </p> 
 
 - 🏢 I'm Back-End Developer and Co-Founder of Kian Academy
@@ -19,7 +21,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/Eng-MustafaAshraf" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mostafa-hamdy-sakr" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/MustafaAshrafAbdElsamei" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Ashraf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
