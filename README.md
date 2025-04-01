@@ -21,8 +21,8 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mostafa-hamdy-sakr" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/MustafaAshrafAbdElsamei" target="_blank"><img src="https://img.shields.io/badge/-Mustafa%20Ashraf-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mostafa-hamdy-sakr" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Sakr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Mohamed22Sakr" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Sakr-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
