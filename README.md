@@ -15,21 +15,19 @@
 - 🏢 I'm Back-End Developer and Co-Founder of Kian Academy
 - 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, OOP with C++, and Data Structure & Algorithms, or anything related to Programming, Networks, Web Development.
-- ⚡ Fun Fact: I'm a teش enthusiast and my perfect day would start and end with a cup of tea.
+- ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/mostafa-hamdy-sakr" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Sakr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohamed22Sakr" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Sakr-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### 🛠 &nbsp;Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat)&nbsp;
