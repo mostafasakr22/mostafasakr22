@@ -29,6 +29,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?style=flat)&nbsp;
+![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat)&nbsp;
