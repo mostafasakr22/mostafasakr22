@@ -28,8 +28,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat)&nbsp;
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
-
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat)&nbsp;
