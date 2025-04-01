@@ -12,7 +12,7 @@
 </a>
 </p> 
 
-- 🏢 I'm Back-End Developer and Co-Founder of Kian Academy
+- 🏢 I'm Software Engineer and Back-End Developer and Co-Founder of Kian Academy
 - 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, OOP with C++, and Data Structure & Algorithms, or anything related to Programming, Networks, Web Development.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
